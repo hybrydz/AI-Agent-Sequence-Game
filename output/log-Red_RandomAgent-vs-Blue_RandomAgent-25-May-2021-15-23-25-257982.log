@@ -1,0 +1,71 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+hand ['ad', '2h', '2c', '5d', '8s', '4h']
+here
+agent id 0
+agent id 1
+hand ['2d', '3h', '2d', '7h', '2s', '4s']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '5d', '8s', '4h', 'kh']
+here
+agent id 0
+agent id 1
+hand ['2d', '2d', '7h', '2s', '4s', '3c']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '5d', '8s', 'kh', '9c']
+here
+agent id 0
+agent id 1
+hand ['2d', '2d', '2s', '4s', '3c', '3d']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '8s', 'kh', '9c', 'ah']
+here
+agent id 0
+agent id 1
+hand ['2d', '2d', '2s', '4s', '3d', 'qh']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '8s', 'kh', '9c', 'qc']
+here
+agent id 0
+agent id 1
+hand ['2d', '2s', '4s', '3d', 'qh', 'tc']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '8s', 'kh', 'qc', '6d']
+here
+agent id 0
+agent id 1
+hand ['2d', '2s', '4s', '3d', 'tc', '8h']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '8s', 'kh', '6d', '5c']
+here
+agent id 0
+agent id 1
+hand ['2s', '4s', '3d', 'tc', '8h', '3d']
+here
+agent id 2
+agent id 3
+hand ['ad', '2c', '8s', 'kh', '6d', 'jh']
+here
+agent id 0
+agent id 1
+hand ['2s', '4s', '3d', 'tc', '3d', 'jd']
+here
+agent id 2

@@ -1,0 +1,89 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+hand ['ks', '7s', '2d', '8s', '9c', 'ah']
+here
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 0
+agent id 1
+hand ['7c', '6s', '4c', 'jc', 'as', '7d']
+here
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+agent id 3
+hand ['ks', '2d', '8s', '9c', 'ah', '7d']
+here
+agent id 0
+agent id 1
+hand ['7c', '6s', '4c', 'as', '7d', 'jc']
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+agent id 3
+hand ['ks', '2d', '8s', '9c', '7d', 'jd']
+here
+agent id 0
+agent id 1
+hand ['7c', '6s', '4c', 'as', '7d', 'ad']
+here
+agent id 2
+agent id 3
+hand ['ks', '2d', '8s', '9c', '7d', '3d']
+here
+agent id 0
+agent id 1
+hand ['7c', '6s', 'as', '7d', 'ad', 'ac']
+here
+agent id 2
+agent id 3
+hand ['ks', '2d', '8s', '7d', '3d', 'ac']
+here
+agent id 0
+agent id 1
+hand ['6s', 'as', '7d', 'ad', 'ac', '8h']
+here
+agent id 2
+agent id 3
+agent id 3
+hand ['ks', '8s', '7d', '3d', 'ac', '2c']
+here
+agent id 0
+agent id 1
+hand ['6s', 'as', '7d', 'ad', 'ac', '6c']
+here
+agent id 2
+agent id 3
+hand ['ks', '8s', '7d', '3d', '2c', '4s']
+here
+agent id 0
+agent id 1
+hand ['6s', 'as', '7d', 'ad', 'ac', '5h']
+here
+agent id 2
+agent id 3
+hand ['ks', '8s', '7d', '3d', '4s', '4d']
+here
+agent id 0
+agent id 1
+hand ['6s', 'as', '7d', 'ad', 'ac', 'th']
+here
+agent id 2
+agent id 3
+hand ['ks', '8s', '7d', '3d', '4s', 'ah']
+here
+agent id 0
+agent id 1
+hand ['6s', 'as', '7d', 'ad', 'ac', 'jh']
+here
+agent id 2
+agent id 3
+hand ['ks', '8s', '7d', '3d', '4s', '9h']
+here
+agent id 0

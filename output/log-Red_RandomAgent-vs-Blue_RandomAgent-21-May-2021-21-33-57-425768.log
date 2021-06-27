@@ -1,0 +1,27 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 0
+agent id 1
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+agent id 3
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 0
+agent id 1
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+agent id 3
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 0

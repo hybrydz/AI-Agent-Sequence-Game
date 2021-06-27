@@ -1,0 +1,54 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+hand ['6c', 'jd', '2h', '9s', '8s', '2d']
+here
+agent id 0
+agent id 1
+hand ['3s', '4s', 'kd', '5h', 'ks', '8c']
+here
+agent id 2
+agent id 3
+hand ['6c', '2h', '9s', '8s', '2d', '4h']
+here
+agent id 0
+agent id 1
+hand ['3s', '4s', 'kd', '5h', 'ks', '8d']
+here
+agent id 2
+agent id 3
+hand ['6c', '2h', '9s', '8s', '2d', '5c']
+here
+agent id 0
+agent id 1
+hand ['3s', '4s', 'kd', '5h', '8d', '6h']
+here
+agent id 2
+agent id 3
+hand ['6c', '9s', '8s', '2d', '5c', 'th']
+here
+agent id 0
+agent id 1
+hand ['3s', '4s', 'kd', '5h', '8d', '6d']
+here
+agent id 2
+agent id 3
+hand ['6c', '9s', '8s', '2d', '5c', 'qs']
+here
+agent id 0
+agent id 1
+[OtherError] error occured when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+hand ['3s', '4s', 'kd', '8d', 'ac', '9d']
+here
+agent id 2
+agent id 3
+hand ['9s', '8s', '2d', '5c', 'qs', '3h']
+here
+agent id 0

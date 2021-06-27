@@ -1,0 +1,23 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+hand ['3s', '3d', 'jd', '4c', 'ts', '7h']
+here
+agent id 0
+agent id 1
+hand ['ah', '3d', 'td', '9d', '8s', '2h']
+here
+agent id 2
+agent id 3
+hand ['3s', '3d', '4c', 'ts', '7h', 'jc']
+here
+agent id 0
+agent id 1
+hand ['ah', '3d', 'td', '9d', '8s', '3h']
+here
+agent id 2

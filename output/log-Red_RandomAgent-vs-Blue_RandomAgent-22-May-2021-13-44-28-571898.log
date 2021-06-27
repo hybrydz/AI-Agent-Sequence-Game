@@ -1,0 +1,304 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 63, in SelectAction
+    print(self.remove_list)
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2
+agent id 3
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 0
+agent id 1
+Traceback (most recent call last):
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 62, in SelectAction
+    remove_list=self.oneEyedJack(game_state,self.id)
+  File "/Users/akil/Documents/GitHub/comp90054-sequence-group-project-group-45/agents/Human/player.py", line 315, in oneEyedJack
+    if chips not in self.remove_list:
+AttributeError: 'myAgent' object has no attribute 'remove_list'
+agent id 2

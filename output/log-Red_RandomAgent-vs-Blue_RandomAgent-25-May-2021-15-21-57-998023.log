@@ -1,0 +1,87 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+hand ['kd', '6c', 'qc', '2c', '3s', '9h']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'jd', 'th', '5c', 'js']
+here
+agent id 2
+agent id 3
+hand ['kd', '6c', 'qc', '2c', '3s', '7h']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'th', '5c', 'js', '3c']
+here
+agent id 2
+agent id 3
+hand ['kd', '6c', 'qc', '2c', '3s', '9c']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'th', 'js', '3c', 'kh']
+here
+agent id 2
+agent id 3
+hand ['kd', '6c', 'qc', '3s', '9c', '2c']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'th', 'js', 'kh', 'kc']
+here
+agent id 2
+agent id 3
+hand ['kd', 'qc', '3s', '9c', '2c', '7d']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'js', 'kh', 'kc', '5h']
+here
+agent id 2
+agent id 3
+hand ['kd', 'qc', '3s', '2c', '7d', 'qc']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'js', 'kh', 'kc', '8h']
+here
+agent id 2
+agent id 3
+hand ['kd', '3s', '2c', '7d', 'qc', '5s']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'js', 'kh', 'kc', '2h']
+here
+agent id 2
+agent id 3
+hand ['kd', '3s', '2c', 'qc', '5s', '6h']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'js', 'kh', 'kc', 'qs']
+here
+agent id 2
+agent id 3
+hand ['kd', '3s', '2c', 'qc', '5s', 'ac']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'js', 'kh', 'kc', 'qh']
+here
+agent id 2
+agent id 3
+hand ['kd', '3s', '2c', 'qc', '5s', '5s']
+here
+agent id 0
+agent id 1
+hand ['tc', 'ah', 'kh', 'kc', 'qh', 'as']
+here
+agent id 2

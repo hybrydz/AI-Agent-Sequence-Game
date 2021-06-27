@@ -1,0 +1,63 @@
+Following are the print info for loading:
+
+
+
+-------------------------------------
+
+Following are the print info from the game:
+
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+[TimeoutError] timeout when calling SelectAction()!
+Selecting random action instead!
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
+agent id 1
+agent id 2
+agent id 3
+agent id 0
